@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/-/source/CLion_Projects/Tsisa_lab03/cmake-build-debug/TextTable.h
+iostream
+-
+map
+-
+iomanip
+-
+vector
+-
+string
+-
+clocale
+-
+
+C:/Users/-/source/CLion_Projects/Tsisa_lab03/main.cpp
+iostream
+-
+cmake-build-debug/TextTable.h
+C:/Users/-/source/CLion_Projects/Tsisa_lab03/cmake-build-debug/TextTable.h
+algorithm
+-
+cmath
+-
+string
+-
+random
+-
+
